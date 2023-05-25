@@ -13,3 +13,6 @@ Training dataset:
 Test dataset:
 
 <img src="confusiontest.PNG" alt="Image of Confusion Test" width="400" height="400">
+
+
+You can learn more about confusion matrix in machine learning by visiting [this link](https://www.simplilearn.com/tutorials/machine-learning-tutorial/confusion-matrix-machine-learning#:~:text=A%20confusion%20matrix%20presents%20a,actual%20values%20of%20a%20classifier.).
