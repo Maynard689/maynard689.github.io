@@ -6,6 +6,10 @@ Specifically we use it to show how our model uses the training dataset to train 
 
 Training dataset:
 
+<img src="confusiontrain.PNG" alt="Image of Confusion Train" width="400" height="400">
+
 
 
 Test dataset:
+
+<img src="confusiontest.PNG" alt="Image of Confusion Test" width="400" height="400">
