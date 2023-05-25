@@ -6,7 +6,10 @@ Hi I'm an Engineering student at the University of Queensland. This blog is to d
 
 Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of Maynard](images/Maynard.jpg)
+
+
+<img src="images/Maynard.jpg" alt="Image of Maynard" width="600" height="800">
+
 
 
 
