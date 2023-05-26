@@ -6,6 +6,9 @@ Specifically we use it to show how our model uses the training dataset to train 
 
 Training dataset:
 
+![](/images/feather.PNG)
+
+
 <img src="confusiontrain.PNG" alt="Image of Confusion Train" width="400" height="400">
 
 
