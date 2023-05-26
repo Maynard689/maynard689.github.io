@@ -6,16 +6,12 @@ Specifically we use it to show how our model uses the training dataset to train 
 
 Training dataset:
 
-
-
-
-<img src="confusiontrain.PNG" alt="Image of Confusion Train" width="400" height="400">
-
+![](/images/confusiontrain.png)
 
 
 Test dataset:
 
-<img src="confusiontest.PNG" alt="Image of Confusion Test" width="400" height="400">
+![](/images/confusiontest.png)
 
 
 You can learn more about confusion matrix in machine learning by visiting [this link](https://www.simplilearn.com/tutorials/machine-learning-tutorial/confusion-matrix-machine-learning#:~:text=A%20confusion%20matrix%20presents%20a,actual%20values%20of%20a%20classifier.).
