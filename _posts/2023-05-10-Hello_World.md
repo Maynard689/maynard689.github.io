@@ -2,7 +2,8 @@
 
 This is my first post. And since we are learning machine learning from FastAi, I got AI to make you a poem about my first Github blog post! I hope you enjoy it!
 
-<img src="feather.PNG" alt="Image of Feather" width="250" height="400">
+![](/images/feather.PNG)
+
 
 In the vast realm of cyberspace, where knowledge unfurls,
 A humble soul steps forth, with words to be hurled.
