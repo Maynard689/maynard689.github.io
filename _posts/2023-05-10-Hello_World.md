@@ -2,7 +2,11 @@
 
 This is my first post. And since we are learning machine learning from FastAi, I got AI to make you a poem about my first Github blog post! I hope you enjoy it!
 
-![](/images/feather.PNG)
+
+|  X  |     |  O  |
+| --- | --- | --- |
+|  O  |  X  |  X  |
+|  O  |  X  |  O  |
 
 
 In the vast realm of cyberspace, where knowledge unfurls,
